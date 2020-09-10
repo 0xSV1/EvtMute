@@ -18,6 +18,8 @@ This version removes the embedded DLL (to get around the size restrictions of ex
 
 Note that the location must be accessible by the SYSTEM account. Beware proxies and remote UNC paths. 
 
+Encoded DLL can be found at https://gist.githubusercontent.com/two06/1d25ec78e08b88b07b6f26be5ee88ddc/raw/e18ab66dee94d6d0b0fbfa6742cea58d18d9ed9d/EvtSvcHook
+
 ### Disabling Logging
 
 A trivial use case would be to disable event logging system wide. To do this we can use the following yara rule.
