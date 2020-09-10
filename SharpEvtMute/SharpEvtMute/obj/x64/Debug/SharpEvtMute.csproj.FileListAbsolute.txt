@@ -1,0 +1,8 @@
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\bin\x64\Debug\SharpEvtMute.exe.config
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\bin\x64\Debug\SharpEvtMute.exe
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\bin\x64\Debug\SharpEvtMute.pdb
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\x64\Debug\SharpEvtMute.csproj.CoreCompileInputs.cache
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\x64\Debug\SharpEvtMute.csproj.Fody.CopyLocal.cache
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\x64\Debug\SharpEvtMute.exe
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\x64\Debug\SharpEvtMute.pdb
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\x64\Debug\SharpEvtMute.csprojAssemblyReference.cache

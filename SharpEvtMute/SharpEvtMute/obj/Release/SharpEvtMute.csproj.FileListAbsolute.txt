@@ -5,3 +5,11 @@ W:\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.csprojAssemblyReference.ca
 W:\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.csproj.CoreCompileInputs.cache
 W:\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.exe
 W:\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.pdb
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\bin\Release\SharpEvtMute.exe.config
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\bin\Release\SharpEvtMute.exe
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\bin\Release\SharpEvtMute.pdb
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.csprojAssemblyReference.cache
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.csproj.CoreCompileInputs.cache
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.exe
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.pdb
+C:\Users\two06\projects\EvtMute\SharpEvtMute\SharpEvtMute\obj\Release\SharpEvtMute.csproj.Fody.CopyLocal.cache
